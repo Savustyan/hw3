@@ -1,4 +1,3 @@
-# Не совсем понял 2 задание
 import random
 try:
     raise random.choice([ZeroDivisionError, ImportError, KeyError, UnicodeError, StopIteration])
